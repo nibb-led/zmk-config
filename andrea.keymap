@@ -17,7 +17,7 @@
 //   | TAB   | Q     | W     | E     | R     | T     | Y     | U     | I     | O     | P     | [     | ]     | BSPC  |   DEL  |
 //   | CAPS  | A     | S     | D     | F     | G     | H     | J     | K     | L     | ;     | '     |         ENTER |         END   |
 //   | SHIFT | Z     | X     | C     | V     | B     | B     | N     | M     | ,     | .     | /     | SHIFT |  UP           |
-//   | ALT  |         WIN   | SPACE | MO FN |   LT(SPACE,1) | CTRL  |                                 LEFT  | DOWN  | RIGHT |
+//   | ALT  |        WIN   | SPACE | MO FN |   LT(SPACE,1) | CTRL  |                                 LEFT  | DOWN  | RIGHT |
 
 			bindings = <
     &kp ESC          &kp NUM_1        &kp NUM_2     &kp NUM_3     &kp NUM_4     &kp NUM_5        &kp NUM_6        &kp NUM_7        &kp NUM_8        &kp NUM_9        &kp NUM_0        &kp MINUS        &kp EQL          &kp BSLH         &kp GRAVE       &kp C_MUTE
